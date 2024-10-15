@@ -1,5 +1,7 @@
 # Star Carefree Artwork Usage Policy (SCAUP)
 
+### Copyright (c) 2024 Star Carefree
+
 > [!IMPORTANT]  
 > This Policy is designed to safeguard your privacy, property, and account security while also mitigating potential issues. By utilizing or engaging with Star Carefree ("SC") artwork, you acknowledge that you fully comprehend and agree to comply with all terms and conditions set forth in this Policy.
 
