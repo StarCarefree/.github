@@ -10,7 +10,7 @@
 - You retain the comprehensive right to utilize, engage with, and disseminate SC-related works at no cost, provided that you adhere strictly to this Policy[^1].
 - Unauthorized reproduction, plagiarism, or paraphrasing of SC-related works is unequivocally prohibited[^2].
 - SC bears no liability for any breaches of privacy, property damage, or other personal safety concerns arising from the use of unofficially released works[^3], or from disregarding pertinent warnings contained within those works.
-- You are not authorized to distribute and share your modified work in any way without official permission from SC.
+- You do not have the right to distribute and share your modified work of SC in any way without the official permission of SC;
 - You are expressly prohibited from employing SC-related works for any commercial purposes[^4] without obtaining prior explicit permission from SC.
 - In the event of a conflict between the stipulations outlined in the internal Policy governing SC-related works and the terms stated in this Policy, the provisions of the internal Policy shall take precedence[^5].
 - Should SC engage in collaboration with a third party, the policy of that third party shall be effective concurrently with this Policy and shall hold equal priority; works governed by multiple policies will be clearly labeled with the relevant policy information.
