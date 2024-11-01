@@ -1,4 +1,143 @@
-﻿<!-- 这是 PCL 的主页自定义文件。你可以通过修改这个文件来自定义 PCL 主页：添加文本、打开网页、启动游戏，等等。
+﻿<image></image>
+<local:MyCard Title="重要内容" Margin="0,0,0,15" CanSwap="False" IsSwaped="True">
+    <StackPanel>
+        <TextBlock Margin="0,8,0,10" HorizontalAlignment="Center"  FontSize="22" Foreground="#8C9"
+                    Text="选手须知:" />
+            <local:MyHint Text="
+1.比赛时需用官方提供的游戏端,官方已经将mod配置完成！&#xA;
+2.确保你的麦克风正常,且能在比赛期间正常运行&#xA;
+3.语言文明,本次比赛将会进行直播,任何不当用语造成的任何问题,我们概不负责!&#xA;
+4.与我们保持联系,如果比赛中途退出,需向我们说明情况,无说明则视为放弃比赛资格&#xA;
+5.禁止私自添加删减/更新模组,这样可能导致无法正常进入游戏！
+" />
+            <local:MyHint Text="
+1.游戏内提供了一些光影及材质包,可根据自己实际情况安排&#xA;
+2.游戏内有语音聊天的模组;如果MOD无法正常运行的人数较多,会启用QQ频道语音&#xA;
+3.比赛前将进行MODs检查,请勿添加任何其他MODs,其他的一些设置可自行调整&#xA;
+4.比赛我们将会提前发布比赛地图/数据包&#xA;注意:比赛地图/数据包将会和网上发布的有区别!
+"  IsWarn="False" />
+    </StackPanel>
+</local:MyCard>
+
+<TextBlock Margin="0,8,0,10" HorizontalAlignment="Center" ToolTip="不怎么华丽的分割线#_#" Foreground="blue"
+                    Text="----------------------------------------------------------------------------------------------------------" />
+
+<local:MyListItem Margin="-5,0,-5,8"
+            Logo="" ToolTip="刷新以获得最新比赛消息!"
+            Title="刷新以获得最新消息!" Info="接收信号bibi~~" EventType="刷新主页" Type="Clickable" />
+
+<TextBlock Margin="0,8,0,10" HorizontalAlignment="Center" ToolTip="################################" Foreground="#fffb"
+                    Text="------------------------------------------------------------------------" />
+
+<local:MyCard Title="> > > 比赛选手专用通道 > > >" Margin="0,0,0,15" CanSwap="False" IsSwaped="True">
+    <StackPanel Margin="25,40,23,15">
+
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"  HorizontalAlignment="center"
+                    Text="1.20.4 > 竞速" />
+        <local:MyButton Margin="0,4,0,0" Width="auto" Height="35"  ColorType="red"
+                    Text="比赛时间:-月--日>--:--~--:--" EventType="启动游戏" EventData="1.20.4|XX.XX.XX" ToolTip="暂未开始@~@"/>
+
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"  HorizontalAlignment="center"
+                    Text="" />
+
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"  HorizontalAlignment="center"
+                    Text="1.16.5 > 钓鱼战争" />
+        <local:MyButton Margin="0,4,0,0" Width="auto" Height="35"  ColorType="red"
+                    Text="比赛时间:-月--日>--:--~--:--" EventType="启动游戏" EventData="1.16.5|XX.XX.XX" ToolTip="暂未开始@~@"/>
+
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"  HorizontalAlignment="center"
+                    Text="" />
+
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"  HorizontalAlignment="center"
+                    Text="1.20.4 > 跑酷" />
+        <local:MyButton Margin="0,4,0,0" Width="auto" Height="35"  ColorType="red"
+                    Text="比赛时间:-月--日>--:--~--:--" EventType="启动游戏" EventData="1.20.4|XX.XX.XX" ToolTip="暂未开始@~@"/>
+
+    </StackPanel>
+</local:MyCard>
+
+<TextBlock Margin="0,8,0,10" HorizontalAlignment="Center" ToolTip="################################" Foreground="#fffb"
+                    Text="------------------------------------------------------------------------" />
+
+<local:MyCard Title="比赛内容下载" Margin="0,0,0,15"  CanSwap="False" IsSwaped="True">
+    <StackPanel>
+
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"  HorizontalAlignment="center"
+                    Text="" />
+
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"  HorizontalAlignment="center"
+                    Text="" />
+
+        <local:MyButton Margin="0,0,0,4" Width="300" Height="35" ColorType="Highlight"
+                    Text="1.20.4 > 竞速地图" EventType="下载文件" ToolTip="Sprint Racer v1.5.8" EventData="" />
+
+        <local:MyButton Margin="0,0,0,4" Width="300" Height="35" ColorType="Highlight"
+                    Text="1.20.4 > 竞速材质包" EventType="下载文件" ToolTip="Sprint Racer v1.5.8.SR" EventData="" />
+
+        <local:MyButton Margin="0,0,0,4" Width="300" Height="35" ColorType="Highlight"
+                    Text="1.16.5 > 钓鱼战争数据包" EventType="下载文件" ToolTip="Fishing War v9.1" EventData="" />
+
+        <local:MyButton Margin="0,0,0,4" Width="300" Height="35" ColorType="red"
+                    Text="1.20.4 > 跑酷地图" EventType="下载文件" ToolTip="正在挑选中........" EventData="" />
+
+    </StackPanel>
+</local:MyCard>
+
+<TextBlock Margin="0,8,0,10" HorizontalAlignment="Center" ToolTip="不怎么华丽的分割线#_#" Foreground="blue"
+                    Text="----------------------------------------------------------------------------------------------------------" />
+
+<local:MyCard Title="[1.16.5-离线模式进入多人模式被禁用]解决办法" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+    <StackPanel Margin="25,40,23,15">
+        <local:MyHint Text="1.不联网以离线模式进入游戏&#xA;2.打开[多人游戏]&#xA;3.连接网络" IsWarn="False" />
+        <local:MyHint Text="#如不用正版账号登录则每次启动1.16.5需重复此步骤!&#xA;这个仅保留作教程,在本次比赛中将不会用到" IsWarn="True"/>
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="比赛过程中遇到游戏突然崩溃的问题怎么办？" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+    <StackPanel Margin="25,40,23,15">
+        <local:MyHint Text="[重启游戏]是第一步,如果仍然不行,请按照一下步骤进行-->&#xA;将启动器提示信息截屏和最后一次启动的bat文件(名称为LatestLaunch.bat，以下简称bat文件)及日志文件一起发到[Q/A群]&#xA;当然,如果你看得懂,也可以自行解决#~#" IsWarn="False" />
+             <local:MyButton Margin="0,4,0,10" Width="auto" Height="35"
+                    Text="打开最后一次运行日志" EventType="打开文件" EventData="Log1.txt"/>
+             <local:MyButton Margin="0,4,0,0" Width="auto" Height="35"
+                    Text="定位最后一次启动的bat文件" EventType="打开文件" EventData="explorer.exe|/select,LatestLaunch.bat"/>
+        <local:MyHint Text="一定一起发,不要只发提示信息或者bat文件或日志文件"/>
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="奖励" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+    <StackPanel Margin="25,40,23,15">
+        <local:MyHint Text="第一名:200元(RMB)&#xA;第二名:100元(RMB)&#xA;第三、四名:50元(RMB)&#xA;第五名:20元(RMB)" IsWarn="False" />
+        <local:MyHint Text="注意：比赛结束后，我们将进行结算，结果将发布至官网以及此页面上（此页面将在比赛结束5天后关闭）&#xA;奖金将会在赛后5天内发放!" IsWarn="True"/>
+    </StackPanel>
+</local:MyCard>
+
+<TextBlock Margin="0,8,0,10" HorizontalAlignment="Center" ToolTip="################################" Foreground="#fffb"
+                    Text="------------------------------------------------------------------------" />
+<local:MyCard Title="小玩意" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+    <StackPanel Margin="25,40,23,15">
+    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <local:MyButton Margin="0,5,0,6" Width="130" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="highlight"
+                    Text="看一下今天的运气" EventType="今日人品"/>
+            <local:MyButton Margin="0,5,0,6" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="red"
+                    Text="清理运行内存" EventType="内存优化"/>
+            <local:MyButton Margin="0,0,10,0" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="highlight"
+                    Text="刷会抖音~" EventType="打开网页" EventData="https://www.douyin.com/" />
+        </StackPanel>
+    </StackPanel>
+</local:MyCard>
+
+<TextBlock Margin="0,8,0,10" HorizontalAlignment="Center" ToolTip="不怎么华丽的分割线#_#" Foreground="blue"
+                    Text="----------------------------------------------------------------------------------------------------------" />
+
+<TextBlock Margin="0,8,0,10" HorizontalAlignment="Center"  FontSize="22" Foreground="#8C9"
+                    Text="更多内容>>>>" />
+<local:MyButton Margin="0,8,0,0" HorizontalAlignment="Center"  ColorType="Highlight"  Width="auto" Height="50"
+                    Text="         MoY 工作室        " EventType="打开网页" EventData="https://www.moystudio.fun" />
+
+
+
+
+<!-- 这是 PCL 的主页自定义文件。你可以通过修改这个文件来自定义 PCL 主页：添加文本、打开网页、启动游戏，等等。
      如果你倒腾这个文件把 PCL 玩炸了，把这个文件直接删除就行了。
      下列内容均基于 WPF 框架。你可以在继续之前先尝试自学 XAML 与 WPF 的基础，这能让你更轻松地理解下列内容。
      你也可以使用 Ctrl + F 快速查找。例如，若需要改变文本颜色，则搜索 “颜色” 即可。 -->
