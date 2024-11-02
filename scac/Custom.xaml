@@ -1,5 +1,4 @@
-﻿<image></image>
-<local:MyCard Title="重要内容" Margin="0,0,0,15" CanSwap="False" IsSwaped="True">
+﻿<local:MyCard Title="重要内容" Margin="0,0,0,15" CanSwap="False" IsSwaped="True">
     <StackPanel>
         <TextBlock Margin="0,8,0,10" HorizontalAlignment="Center"  FontSize="22" Foreground="#8C9"
                     Text="选手须知:" />
