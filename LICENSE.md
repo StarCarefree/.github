@@ -1,6 +1,6 @@
 # Star Carefree Artwork Usage Agreement (SCAUP)
 
-### Copyright (c) 2024 Star Carefree
+### Copyright (c) 2024-2025 Star Carefree
 
 > [!IMPORTANT]  
 > This Agreement is designed to safeguard your privacy, property, and account security while also mitigating potential issues. By utilizing or engaging with Star Carefree ("SC") artwork, you acknowledge that you fully comprehend and agree to comply with all terms and conditions set forth in this Agreement.
