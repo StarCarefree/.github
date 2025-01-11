@@ -1,23 +1,38 @@
-# Star Carefree Artwork Usage Agreement (SCAUP)
+# Star Carefree Artworks Usage Protocol (SCAUP)
 
-### Copyright (c) 2024-2025 Star Carefree
+**Copyright (c) 2024-2025 Star Carefree**
 
-> [!IMPORTANT]  
-> This Agreement is designed to safeguard your privacy, property, and account security while also mitigating potential issues. By utilizing or engaging with Star Carefree ("SC") artwork, you acknowledge that you fully comprehend and agree to comply with all terms and conditions set forth in this Agreement.
+---
 
-## Content of the Agreement
+### Important Information
+This protocol is designed to safeguard your privacy, property, and related accounts, as well as to prevent unnecessary troubles. By using or engaging with any works produced by Star Carefree Studio (hereinafter referred to as “SC”), you are deemed to have fully understood and agreed to comply with all the terms outlined in this protocol.
 
-- You retain the comprehensive right to utilize, engage with, and disseminate SC-related works at no cost, provided that you adhere strictly to this Agreement[^1].
-- Unauthorized reproduction, plagiarism, or paraphrasing of SC-related works is unequivocally prohibited[^2].
-- SC bears no liability for any breaches of privacy, property damage, or other personal safety concerns arising from the use of unofficially released works[^3], or from disregarding pertinent warnings contained within those works.
-- When you reference SC open source project code in your work, if the source code repository copyright agreement conflicts with this agreement, the repository copyright agreement takes precedence over this agreement.
-- You are expressly prohibited from employing SC-related works for any commercial purposes[^4] without obtaining prior explicit permission from SC.
-- In the event of a conflict between the stipulations outlined in the internal Agreement governing SC-related works and the terms stated in this Agreement, the provisions of the internal Agreement shall take precedence[^5].
-- Should SC engage in collaboration with a third party, the Agreement of that third party shall be effective concurrently with this Agreement and shall hold equal priority; works governed by multiple policies will be clearly labeled with the relevant Agreement information.
-- SC reserves the right to amend this Agreement and related legal rights; the final interpretation of this Agreement shall rest with Star Remote Workshop.
+---
 
-[^1]: The applicability of this clause presupposes adherence to this Agreement;  
-[^2]: The term “sets” excludes the incorporation of modules into your own modpacks;  
-[^3]: Official third-party distribution platforms include: [Minebbs](https://www.minebbs.com/members/51515/), [BUILTBYBIT](https://builtbybit.com/creators/theflarestar.382392), [MCmod](https://www.mcmod.cn/author/32789.html), [Modrinth](https://modrinth.com/organization/star-carefree), [Curseforge](https://www.curseforge.com/members/theflarestar/projects);  
-[^4]: Individual live streaming activities are exempt from this clause;  
-[^5]: The internal terms of the work shall always take precedence over the terms of this Agreement.
+## Protocol Terms
+(1) You have full rights to reasonably use, engage with, and freely share SC-related works [^1].
+(2) Unauthorized reproduction, plagiarism, or derivative works based on SC-related works are strictly prohibited [^2].
+(3) SC shall bear no responsibility for any privacy breaches, property losses, or safety issues resulting from your usage of unofficially released works [^3] or from ignoring relevant warnings within SC works.
+(4) When incorporating SC’s open-source projects [^4] or their code into your own works, the license of the original repository shall take precedence in case of any conflict with this protocol.
+5. Without official authorization from SC, you are prohibited from using SC-related works for any commercial activities [^5].
+6. In cases where internal agreements within SC-related works conflict with the terms of this protocol, the internal agreements shall take precedence [^6].
+7. In the event of collaboration between SC and third parties, both this protocol and the third-party agreements shall simultaneously apply with equal priority. Works subject to multiple agreements will clearly indicate the applicable terms.
+8. SC reserves the right to modify this protocol and any related legal rights. The final interpretation of this protocol rests solely with Star Carefree Studio.
+
+---
+
+### Additional Information
+- If SC-related works involve third-party collaborations and are subject to multiple agreements, SC will clearly indicate the applicable rules or issue explanatory notes within the relevant works.
+- Modifications to this protocol will be announced via the official website or official distribution platforms. If you continue to use SC-related works after the protocol has been modified, you will be deemed to have accepted the revised terms.
+
+[^1]:You are entitled to the following rights, provided you comply with this protocol:(1) Use and engage with SC-related works for personal entertainment purposes;(2) Download and share officially released SC-related works for free in non-commercial environments via legal channels, without modifying or removing copyright information.
+
+[^2]:Without official authorization from SC, users are prohibited from engaging in the following activities:(1) Copying or distributing all or part of SC-related works;(2) Plagiarizing, replicating, or adapting SC-related works into other forms;(3) Publishing content under SC’s name in any way.Note: Secondary creations are limited to personal entertainment and non-public environments only, and must not infringe upon SC's copyrights or rights.
+
+[^3]:Official release channels include, but are not limited to, Minebbs, BUILTBYBIT, MCmod, Modrinth, and Curseforge. Any content not distributed through the aforementioned platforms shall be regarded as “unofficial works.”
+
+[^4]:Open source projects refer to projects that are publicly released through the official channels mentioned above.
+
+[^5]:Without written authorization from SC, the following commercial activities are prohibited:(1) Directly selling, leasing, or transferring SC-related works or their derivative content;(2) Using SC-related works in any form within commercial projects.Note: Personal livestreaming and content creation with commercial earnings are not considered commercial activities; however, the source of SC works must be clearly credited, and other relevant terms must be adhered to.
+
+[^6]: In cases where internal agreements within SC-related works conflict with the terms of this protocol, the internal agreements shall take precedence, with specific conflicting clauses and applicable rules clearly stated within the relevant works.
