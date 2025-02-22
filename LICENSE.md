@@ -1,4 +1,4 @@
-# Star Carefree Workshop Usage Protocol (SCAUP)
+# Star Carefree Artworks Usage Protocol (SCAUP)
 
 ### Copyright (c) 2024-2025 Star Carefree
 
@@ -13,7 +13,7 @@
 - You do not have the right to use SC-related works for any commercial activity[^5] without SC's official permission;
 - When the internal protocol of SC-related works conflicts with the terms of this protocol, the internal protocol takes priority[^6];
 - When SC collaborates with third parties, both the third-party protocol and this protocol are effective simultaneously and hold equal priority. Works with multiple protocols will clearly indicate the applicable protocol contents;
-- SC reserves the right to modify this protocol and related legal rights. The final interpretation of this protocol is owned by Star Carefree Workshop.
+- SC reserves the right to modify this protocol and related legal rights. The final interpretation of this protocol is owned by Star Carefree.
 
 ### Additional Notes
 - If SC-related works are in collaboration with third parties and multiple protocols are involved, SC will clearly mark the applicable rules or release explanatory notes in the relevant works;
