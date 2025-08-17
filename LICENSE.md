@@ -1,9 +1,10 @@
-# Star Carefree Artwork Usage Protocol (SCAUP)
+# Star Carefree Artwork Usage Protocol (SCAUP)  
 **Copyright (c) 2024-2025 Star Carefree**
 
 ---
 
 > **Important Notice**  
+<<<<<<< HEAD
 > This Agreement is a legal agreement between you and Star Carefree (hereinafter referred to as "SC") regarding the use of SC Artworks. It aims to clarify intellectual property ownership, regulate usage behavior, and define the rights and obligations of both parties. Please read this Agreement in full before using SC Artworks. Your use of the Artworks shall be deemed as your acceptance of all terms of this Agreement. If you do not agree with the contents of this Agreement, please do not use the relevant Artworks.
 
 ---
